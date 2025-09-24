@@ -1,37 +1,29 @@
-name: Quarto Render & Publish
+name: Quarto Publish (HTML only)
+
 on:
   push:
     branches: [ "main" ]
+
 jobs:
-  build-deploy:
+  publish:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Setup Quarto
         uses: quarto-dev/quarto-actions/setup@v2
         with:
           version: "latest"
 
-      # PDF rendering needs TeX
-      - name: Install TinyTeX (for PDF)
-        uses: r-lib/actions/setup-tinytex@v2
+      - name: Check Quarto
+        run: quarto --version
 
-      - name: Render site (HTML + PDF)
-        run: |
-          quarto render spain-2025-itinerary.qmd --to html
-          quarto render spain-2025-itinerary.qmd --to pdf
+      - name: Render site
+        run: quarto render
 
-      - name: Upload PDF artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: itinerary-pdf
-          path: spain-2025-itinerary.pdf
-
-      - name: Publish to GitHub Pages (HTML in _site/)
+      - name: Publish to GitHub Pages
         if: ${{ github.ref == 'refs/heads/main' }}
         uses: peaceiris/actions-gh-pages@v3
         with:
