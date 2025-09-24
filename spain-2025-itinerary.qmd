@@ -6,37 +6,14 @@ format:
   docx: default
 --- 
 
-## Flights
-- **Sept 28**: Muskegon → Chicago (KG 5760, dep 12:05 pm, arr 11:55 am)  
-  - Connection at Chicago ORD: Arrive Terminal 3 (Denver Air Connection). Iberia also departs Terminal 3.
-    - You can access the **American Airlines Flagship Lounge** in T3 near Gate K19 with your Iberia business class boarding pass.
-- **Sept 28**: Chicago ORD → Madrid (Iberia IB 342, dep 4:30 pm, arr Sept 29 7:55 am)  
-- **Oct 8**: Madrid → Chicago ORD (Iberia IB 341, dep 11:35 am, arr 2:15 pm)  
-- **Oct 8**: Chicago → Muskegon (KG 5775, dep 6:00 pm, arr 7:50 pm)
-
----
-
-## Train
-- **Sept 29**: Madrid Chamartín → Sarria  
-  - 10:04 — Depart Chamartín (AVE 05273, Confort, seat 05B)  
-  - 12:18 — Arrive Ourense  
-  - Follow signs to the connecting MD (Media Distancia) platform.
-  - Your ticket already includes the connection; no need to revalidate, just check the platform number on the departure board.
-  - The transfer window is short (~14 minutes), so move directly from arrival platform to the regional train platform.
-  - 12:32 — Depart Ourense (MD 12694)  
-  - 13:47 — Arrive Sarria  
-
-*Combinado Cercanías included → free airport-to-Chamartín commuter ticket.*
-
----
-
 ## Itinerary
 
 ### Day 1 – Sun Sept 28
 - Drop off Gus
-- Depart Muskegon midday.  
-- Connect through Chicago.  
-- Overnight flight to Madrid.  
+- Muskegon → Chicago (KG 5760, dep 12:05 pm, arr 11:55 am)  
+  - Connection at Chicago ORD: Arrive Terminal 3 (Denver Air Connection). Iberia also departs Terminal 3.
+  - You can access the **American Airlines Flagship Lounge** in T3 near Gate K19 with your Iberia business class boarding pass.
+- Chicago ORD → Madrid (Iberia IB 342, dep 4:30 pm, arr Sept 29 7:55 am)
 
 ### Day 2 – Mon Sept 29
 - 07:55 — Arrive Madrid Barajas T4.  
@@ -47,13 +24,13 @@ format:
   - Select Chamartín as your destination.
   - Take line **C1 or C10** (~20 min, trains every 15–20 min).  
 - ~09:30 — Arrive Chamartín, coffee/snack.  
-- 10:04 — Train Chamartín → Ourense (Confort).  
+- 10:04 — 10:04 — Depart Chamartín (AVE 05273, Confort, seat 05B)  
 - 12:18 — Arrive Ourense.  
-- Follow signs to the connecting MD (Media Distancia) platform.
-- Your ticket already includes the connection; no need to revalidate, just check the platform number on the departure board.
-- The transfer window is short (~14 minutes), so move directly from arrival platform to the regional train platform.
-- 12:32 — Train Ourense → Sarria.  
-- 13:47 — Arrive Sarria.  
+  - Follow signs to the connecting MD (Media Distancia) platform.
+  - Your ticket already includes the connection; no need to revalidate, just check the platform number on the departure board.
+  - The transfer window is short (~14 minutes), so move directly from arrival platform to the regional train platform.
+- 12:32 — Depart Ourense (MD 12694)  
+- 13:47 — Arrive Sarria  
 - Check-in: **need to book**
 - Afternoon: explore old town.  
   - Pick up pilgrim credential (credencial) at Iglesia de Santa Mariña, the Tourist Office on Rúa Maior. Monastery of La Magdalena is another option. (~€2–3 cash)  
@@ -97,8 +74,9 @@ format:
 - Overnight: Madrid (stay near Sol, Gran Vía, or La Latina).  
 
 ### Day 11 – Wed Oct 8
-- 11:35 — Flight Madrid → Chicago ORD.  
-- 18:00 — Flight Chicago → Muskegon.  
+- Madrid → Chicago ORD (Iberia IB 341, dep 11:35 am, arr 2:15 pm)  
+- Chicago → Muskegon (KG 5775, dep 6:00 pm, arr 7:50 pm)
+
 - Pick up Gus
 - Home.  
 
@@ -179,4 +157,21 @@ format:
 ## Notes & Next Steps
 - Confirm Camino lodging
 - Book Santiago (Oct 4–5) and Madrid (Oct 6–7) hotels.   
-- Print or store Renfe QR code + Combinado Cercanías info on phone. 
+- Print or store Renfe QR code + Combinado Cercanías info on phone.  
+
+---
+
+### Summary of Tickets (Booked)
+
+- **Flights**
+  - Denver Air Connection Booking Reference: AAZXSG
+    - Sept 28: Muskegon → Chicago (KG 5760, dep 12:05 pm, arr 11:55 am)
+    - Oct 8: Chicago → Muskegon (KG 5775, dep 6:00 pm, arr 7:50 pm)
+  - Iberia Booking Reference: ETKT494 2300390565/01-02
+    - Sept 28: Chicago ORD → Madrid (IB 342, dep 4:30 pm, arr Sept 29 7:55 am)
+    - Oct 8: Madrid → Chicago ORD (IB 341, dep 11:35 am, arr 2:15 pm)
+
+- **Train**
+  - Booking Reference: MLVGKH-3EFcRFjV
+    - Sept 29: Madrid Chamartín → Ourense (AVE 05273, dep 10:04 am, arr 12:18 pm, seat 05B Confort)
+    - Sept 29: Ourense → Sarria (MD 12694, dep 12:32 pm, arr 1:47 pm)
