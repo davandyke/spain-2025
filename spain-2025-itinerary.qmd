@@ -1,7 +1,10 @@
 ---
-title: "Untitled"
-format: html
----
+title: "Spain Itinerary – Sept 28 to Oct 8, 2025"
+format:
+  html: default
+  pdf: default
+  docx: default
+--- 
 
 # Spain Itinerary – Sept 28 to Oct 8, 2025
 Traveler: David Van Dyke
@@ -10,6 +13,8 @@ Traveler: David Van Dyke
 
 ## Flights (Booked)
 - **Sept 28**: Muskegon → Chicago (KG 5760, dep 12:05 pm, arr 11:55 am)  
+  - Connection at Chicago ORD: Arrive Terminal 3 (Denver Air Connection). Iberia also departs Terminal 3.
+    - You can access the **American Airlines Flagship Lounge** in T3 near Gate K19 with your Iberia business class boarding pass.
 - **Sept 28**: Chicago ORD → Madrid (Iberia IB 342, dep 4:30 pm, arr Sept 29 7:55 am)  
 - **Oct 8**: Madrid → Chicago ORD (Iberia IB 341, dep 11:35 am, arr 2:15 pm)  
 - **Oct 8**: Chicago → Muskegon (KG 5775, dep 6:00 pm, arr 7:50 pm)
@@ -20,6 +25,9 @@ Traveler: David Van Dyke
 - **Sept 29**: Madrid Chamartín → Sarria  
   - 10:04 — Depart Chamartín (AVE 05273, Confort, seat 05B)  
   - 12:18 — Arrive Ourense  
+  - Follow signs to the connecting MD (Media Distancia) platform.
+  - Your ticket already includes the connection; no need to revalidate, just check the platform number on the departure board.
+  - The transfer window is short (~14 minutes), so move directly from arrival platform to the regional train platform.
   - 12:32 — Depart Ourense (MD 12694)  
   - 13:47 — Arrive Sarria  
 
@@ -36,27 +44,38 @@ Traveler: David Van Dyke
 
 ### Day 2 – Mon Sept 29
 - 07:55 — Arrive Madrid Barajas T4.  
-- ~08:45 — Clear immigration (business class + carry-on only = quick).  
 - **08:50–09:10 — Transfer to Chamartín (Cercanías train):**
   - Follow signs for **Cercanías / Renfe** at T4.  
-  - Use Combinado Cercanías code on train ticket.  
+  - Go down to the Cercanías station located beneath T4.
+  - Use your Renfe ticket's "Combinado Cercanías" code to get a free Cercanías ticket from the red/white Renfe ticket machines.
+  - Select Chamartín as your destination.
   - Take line **C1 or C10** (~20 min, trains every 15–20 min).  
 - ~09:30 — Arrive Chamartín, coffee/snack.  
 - 10:04 — Train Chamartín → Ourense (Confort).  
 - 12:18 — Arrive Ourense.  
+- Follow signs to the connecting MD (Media Distancia) platform.
+- Your ticket already includes the connection; no need to revalidate, just check the platform number on the departure board.
+- The transfer window is short (~14 minutes), so move directly from arrival platform to the regional train platform.
 - 12:32 — Train Ourense → Sarria.  
 - 13:47 — Arrive Sarria.  
 - Check-in: **Albergue Internacional O Durmiñento** (Rúa Maior 31).  
 - Afternoon: explore old town, buy pilgrim credential if needed.  
 - Evening: pilgrim dinner.  
+  - Recommended to join a lively spot such as Mesón O Tapas do Peregrino or O Descanso for the set pilgrim menu (starter, main, dessert, wine/water). These places are popular with walkers and a good way to meet fellow pilgrims before starting the Camino.  
 - Overnight: O Durmiñento.  
 
 ### Days 3–7 – Sept 30 to Oct 4 (Camino Francés – last 115 km)
 - **Day 3 (Sept 30):** Sarria → Portomarín (~22 km)  
+  - Cross the Miño River into Portomarín, where the Church of San Nicolás was relocated stone by stone when the original town was flooded for the Belesar reservoir.
 - **Day 4 (Oct 1):** Portomarín → Palas de Rei (~25 km)  
+  - Pass historic pilgrim hospices at Hospital de la Cruz and end in Palas de Rei, whose Church of San Tirso preserves remarkable medieval carvings.
 - **Day 5 (Oct 2):** Palas de Rei → Arzúa (~29 km)  
+  - Often stop in Melide, famous for pulpo a la gallega (octopus) and the Romanesque church at Leboreiro.  
+  - Arzúa is known for its cheese production and nearby Ribadiso hosts a medieval pilgrim hospital.
 - **Day 6 (Oct 3):** Arzúa → O Pedrouzo (~19 km)  
+  - En route visit the chapel of Santa Irene and experience the atmosphere of anticipation in O Pedrouzo as pilgrims gather for the final day.
 - **Day 7 (Oct 4):** O Pedrouzo → Santiago (~20 km)  
+  - Highlights include Lavacolla, the traditional cleansing site, Monte do Gozo offering panoramic views of Santiago, and attending the Pilgrim’s Mass featuring the Botafumeiro.
   - Collect Compostela certificate in Santiago.  
   - Overnight: Santiago.  
 
@@ -84,44 +103,68 @@ Traveler: David Van Dyke
 
 ## Packing List – REI Trail 40L
 
-### Essentials
-- Passport, wallet, cards, cash (EUR/USD)  
-- Pilgrim’s Credential  
-- Reusable water bottle/hydration bladder  
-- Sunglasses, hat, sunscreen  
+### Documents & Money
+- Passport + photocopy  
+- Pilgrim credential (credencial)  
+- Flight & train tickets (digital copies on phone + 1 printed copy as backup)  
+- Credit card + some euro cash  
+
+### Pack Setup
+- REI Trail 40 backpack with built-in rain cover  
+- 1 small dry sack (for electronics/passport)  
+- Plastic bags + a couple lightweight packing cubes (organization, laundry separation)  
 
 ### Clothing
-- **Shoes:** Altra Lone Peak 9 trail runners  
-- 3x merino socks  
-- 2x hiking shorts  
-- 2x quick-dry shirts (short sleeve)  
-- 1x long-sleeve hiking shirt  
-- 1x fleece/merino pullover  
-- 1x rain jacket (packable)  
-- 1x rain pants (optional)  
-- 1x sleepwear/light clothes  
-- 1x town outfit (for Santiago/Madrid)  
-- 3–4x underwear (quick-dry)  
+- 2 Patagonia Capilene Cool Daily tees (short-sleeve, quick-dry)  
+- Smartwool Merino 150 Quarter Zip (long-sleeve thermal, doubles as evening shirt)  
+- Patagonia R1 Air Pullover (light fleece mid-layer)  
+- 1 lightweight rain jacket (waterproof, breathable)  
+- 1 REI Sahara Stretch Convertible Pants (trail use, doubles as shorts)  
+- 1 Prana Stretch Zion Pants (town/exploring Spain)  
+- 1 lightweight shorts (backup rotation)  
+- 3 pairs quick-dry underwear (2 ExOfficio + 1 synthetic/merino)  
+- 3 pairs hiking socks (merino blend)  
+- Optional: 1 merino polo or collared shirt for town  
 
-### Gear
-- REI Trail 40 backpack + rain cover  
-- Sleeping bag liner  
-- Microfiber towel  
-- Toiletries (travel-size)  
-- Small first-aid kit (blister pads, ibuprofen)  
-- EU power adapter  
+### Footwear
+- Altra Lone Peak 9 Trail Running Shoes (primary walking shoes)  
+- Xero Shoes Z-Trail EV Sandals (evenings / backup)  
+
+### Toiletries
+- Toothbrush + small toothpaste  
+- Dr. Bronner’s Organic Liquid Soap – 2 oz (body + laundry)  
+- Optional: Laundry detergent sheets (½ sheet per sink load, fresher smell, easier rinsing)  
+- Travel deodorant  
+- Razor + small shaving cream  
+- Quick-dry towel (microfiber)  
+- Sunscreen (50 ml to start; refill in Spain)  
+- Lip balm with SPF  
+- Nail clippers  
+- Optional: Small travel shampoo or shampoo bar (can skip or buy in Spain)  
+
+### Health & First Aid
+- Walgreens blister pads (Compeed-style hydrocolloid)  
+- A few Band-Aids + athletic tape  
+- Ibuprofen  
+- Hand sanitizer + tissues  
+- Earplugs + eye mask (for noisy albergues)  
+- Disposable contact lenses (a few as backup)  
 
 ### Electronics
-- MacBook Air M4 13" + charger  
 - Phone + charger  
-- Power bank  
-- **AirPods Pro**  
-- Charging cables (USB-C/Lightning)  
+- Plug adapter (Type C/E, 220V)  
+- Power bank (charges with MacBook Air USB-C cable)  
+- AirPods or headphones  
+- Apple Watch + charger  
+- 13″ MacBook Air (also charger for power bank)  
 
-### Camino Extras
-- Lightweight sandals/flip-flops  
-- Clothespins + travel line  
-- Small bar soap or detergent packets  
+### Other
+- Sunglasses  
+- Hat (brimmed for sun/rain)  
+- Lightweight guide notes  
+- Safety pins or clothesline for drying  
+- Sleep sack / liner (silk or lightweight synthetic, for albergues)  
+- 2 × 1 L bottles (Smartwater style — bring 1 from home, buy 1 in Spain)  
 
 ---
 
@@ -138,4 +181,4 @@ Traveler: David Van Dyke
 - Confirm Camino lodging (Sarria booked, reserve key towns).  
 - Book Santiago (Oct 4–5) and Madrid (Oct 6–7) hotels.  
 - Decide on Finisterre/Muxía excursion (Oct 5).  
-- Print or store Renfe QR code + Combinado Cercanías info on phone.  
+- Print or store Renfe QR code + Combinado Cercanías info on phone. 
