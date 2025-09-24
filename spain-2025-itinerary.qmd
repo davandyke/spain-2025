@@ -41,17 +41,17 @@ format:
 ### Days 3–7 – Sept 30 to Oct 4 (Camino Francés – last 115 km)
 - **Day 3 (Sept 30):** Sarria → Portomarín (~22 km)  
   - Cross the Miño River into Portomarín, where the Church of San Nicolás was relocated stone by stone when the original town was flooded for the Belesar reservoir.
-  - Overnight: Portomarín TBD
+  - Overnight: Portomarín **TBD**
 - **Day 4 (Oct 1):** Portomarín → Palas de Rei (~25 km)  
   - Pass historic pilgrim hospices at Hospital de la Cruz and end in Palas de Rei, whose Church of San Tirso preserves remarkable medieval carvings.
-  - Overnight: Palas de Rei TBD
+  - Overnight: Palas de Rei **TBD**
 - **Day 5 (Oct 2):** Palas de Rei → Arzúa (~29 km)  
   - Often stop in Melide, famous for pulpo a la gallega (octopus) and the Romanesque church at Leboreiro.  
   - Arzúa is known for its cheese production and nearby Ribadiso hosts a medieval pilgrim hospital.
-  - Overnight: Arzúa TBD
+  - Overnight: Arzúa **TBD**
 - **Day 6 (Oct 3):** Arzúa → O Pedrouzo (~19 km)  
   - En route visit the chapel of Santa Irene and experience the atmosphere of anticipation in O Pedrouzo as pilgrims gather for the final day.
-  - Overnight: O Pedrouzo TBD
+  - Overnight: O Pedrouzo **TBD**
 - **Day 7 (Oct 4):** O Pedrouzo → Santiago (~20 km)  
   - Highlights include Lavacolla, the traditional cleansing site, Monte do Gozo offering panoramic views of Santiago, and attending the Pilgrim’s Mass featuring the Botafumeiro.
   - Collect Compostela certificate in Santiago.  
@@ -62,22 +62,23 @@ format:
 - Morning: Pilgrim’s Mass and/or cathedral museum/rooftop tour.  
 - Afternoon: wander the old town, Alameda Park, and relax at a café.  
 - Evening tapas crawl on Rúa do Franco.  
-- Overnight: Pensión Rua Nova (Single room with private bathroom, free Wi-Fi, pedestrian old town location).  
+- Overnight: **Pensión Rua Nova** (Single room with private bathroom, free Wi-Fi, pedestrian old town location).  
 
 ### Day 9 – Mon Oct 6
 - Morning bus to Finisterre (~2.5 hrs).  
 - Explore the fishing port, beach, and town.  
 - Evening walk to Cabo Fisterra lighthouse for sunset at the “end of the world.”  
-- Overnight: Finisterre (hotel or albergue in town).
+- Overnight: Finisterre **TBD** (or stay third night in Santiago).
 
 ### Day 10 – Tue Oct 7
 - Morning in Finisterre — coffee in town or short coastal stroll.  
 - Midday bus back to Santiago (~2.5 hrs).  
 - Connect onward to Madrid in the afternoon (~3 hrs AVE train, ~1 hr flight).  
 - Evening tapas crawl in La Latina or Malasaña.  
-- Overnight: Madrid TBD (stay near Sol, Gran Vía, or La Latina).  
+- Overnight: Madrid **TBD** (stay near Sol, Gran Vía, or La Latina).  
 
 ### Day 11 – Wed Oct 8
+- Cercanías train to Bajaras T4
 - Madrid → Chicago ORD (Iberia IB 341, dep 11:35 am, arr 2:15 pm)  
 - Chicago → Muskegon (KG 5775, dep 6:00 pm, arr 7:50 pm)
 
@@ -140,7 +141,7 @@ format:
 ### Other
 - Sunglasses  
 - Hat
-- Safety pins or clothesline for drying  
+- Safety pins or clothesline for drying (**TBD**) 
 - Sleep sack / liner (for albergues)  
 - 2 × 1 L bottles (Smartwater style — bring 1 from home, buy 1 in Spain)  
 
@@ -151,6 +152,5 @@ format:
 - Book AVE from Santiago to Madrid
 - Book Madrid (Oct 6–7) hotels.
 - Decide 2 vs. 3 nights in Santiago +/- daytrip to Finisterre or other vs. Overnight in Finisterre
-- Print or store Renfe QR code + Combinado Cercanías info on phone.  
 
 ---
