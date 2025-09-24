@@ -24,19 +24,20 @@ format:
   - Select Chamartín as your destination.
   - Take line **C1 or C10** (~20 min, trains every 15–20 min).  
 - ~09:30 — Arrive Chamartín, coffee/snack.  
-- 10:04 — 10:04 — Depart Chamartín (AVE 05273, Confort, seat 05B)  
+- 10:04 — Depart Chamartín (AVE 05273, Confort, seat 05B)  
 - 12:18 — Arrive Ourense.  
   - Follow signs to the connecting MD (Media Distancia) platform.
   - Your ticket already includes the connection; no need to revalidate, just check the platform number on the departure board.
   - The transfer window is short (~14 minutes), so move directly from arrival platform to the regional train platform.
 - 12:32 — Depart Ourense (MD 12694)  
 - 13:47 — Arrive Sarria  
-- Check-in: **need to book**
+  - Walk from the train station to **Albergue O Durmiñento** (~1 km / 10–12 minutes):  
+  Exit the station and turn right onto Rúa Calvo Sotelo, pass the café by the corner, continue straight toward the old town, then turn left onto Rúa Maior. Follow Rúa Maior past the church of Santa Mariña; the albergue is further along at no. 48.  
+- Check-in: **Albergue O Durmiñento** (Confirmation no. 6103.134.828).  
 - Afternoon: explore old town.  
   - Pick up pilgrim credential (credencial) at Iglesia de Santa Mariña, the Tourist Office on Rúa Maior. Monastery of La Magdalena is another option. (~€2–3 cash)  
 - Evening: pilgrim dinner.  
   - Recommended to join a lively spot such as Mesón O Tapas do Peregrino or O Descanso for the set pilgrim menu (starter, main, dessert, wine/water). These places are popular with walkers and a good way to meet fellow pilgrims before starting the Camino.  
-- Overnight: **need to book**
 
 ### Days 3–7 – Sept 30 to Oct 4 (Camino Francés – last 115 km)
 - **Day 3 (Sept 30):** Sarria → Portomarín (~22 km)  
@@ -61,16 +62,16 @@ format:
 - Overnight: Santiago.  
 
 ### Day 9 – Mon Oct 6
-- Day trip to Finisterre & Muxía.  
-- Morning bus to Finisterre (~2.5 hrs). Visit lighthouse, beach, and port.  
-- Continue to Muxía for the Sanctuary of Nosa Señora da Barca on the rocky coast.  
-- Evening bus back to Santiago (~2.5 hrs).  
-- Overnight: Santiago.  
+- Morning bus to Finisterre (~2.5 hrs).  
+- Explore the fishing port, beach, and town.  
+- Evening walk to Cabo Fisterra lighthouse for sunset at the “end of the world.”  
+- Overnight: Finisterre (hotel or albergue in town).
 
 ### Day 10 – Tue Oct 7
-- Leisurely morning in Santiago — final cathedral plaza coffee or stroll.  
-- Afternoon train or short flight to Madrid (~3 hrs AVE train, ~1 hr flight).  
-- Evening: tapas crawl in La Latina or Malasaña.  
+- Morning in Finisterre — coffee in town or short coastal stroll.  
+- Midday bus back to Santiago (~2.5 hrs).  
+- Connect onward to Madrid in the afternoon (~3 hrs AVE train, ~1 hr flight).  
+- Evening tapas crawl in La Latina or Malasaña.  
 - Overnight: Madrid (stay near Sol, Gran Vía, or La Latina).  
 
 ### Day 11 – Wed Oct 8
@@ -145,9 +146,6 @@ format:
 
 ---
 
-## Lodging Notes
-- **Sept 29 (Sarria):** Albergue Internacional O Durmiñento (book ahead).  
-  - Backup: Casa Barán (pensión, private rooms).  
 - **Camino towns (Sept 30–Oct 4):** book 1–2 nights ahead, especially Portomarín & Arzúa.  
 - **Santiago (Oct 4–5):** reserve hotel now (city fills with pilgrims).  
 - **Madrid (Oct 6–7):** stay near Sol, Gran Vía, or La Latina.  
@@ -156,7 +154,7 @@ format:
 
 ## Notes & Next Steps
 - Confirm Camino lodging
-- Book Santiago (Oct 4–5) and Madrid (Oct 6–7) hotels.   
+- Book Santiago (Oct 4–7) and Madrid (Oct 6–7) hotels.   
 - Print or store Renfe QR code + Combinado Cercanías info on phone.  
 
 ---
