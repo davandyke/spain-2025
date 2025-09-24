@@ -6,12 +6,7 @@ format:
   docx: default
 --- 
 
-# Spain Itinerary – Sept 28 to Oct 8, 2025
-Traveler: David Van Dyke
-
----
-
-## Flights (Booked)
+## Flights
 - **Sept 28**: Muskegon → Chicago (KG 5760, dep 12:05 pm, arr 11:55 am)  
   - Connection at Chicago ORD: Arrive Terminal 3 (Denver Air Connection). Iberia also departs Terminal 3.
     - You can access the **American Airlines Flagship Lounge** in T3 near Gate K19 with your Iberia business class boarding pass.
@@ -21,7 +16,7 @@ Traveler: David Van Dyke
 
 ---
 
-## Train (Booked)
+## Train
 - **Sept 29**: Madrid Chamartín → Sarria  
   - 10:04 — Depart Chamartín (AVE 05273, Confort, seat 05B)  
   - 12:18 — Arrive Ourense  
@@ -38,6 +33,7 @@ Traveler: David Van Dyke
 ## Itinerary
 
 ### Day 1 – Sun Sept 28
+- Drop off Gus
 - Depart Muskegon midday.  
 - Connect through Chicago.  
 - Overnight flight to Madrid.  
@@ -58,11 +54,12 @@ Traveler: David Van Dyke
 - The transfer window is short (~14 minutes), so move directly from arrival platform to the regional train platform.
 - 12:32 — Train Ourense → Sarria.  
 - 13:47 — Arrive Sarria.  
-- Check-in: **Albergue Internacional O Durmiñento** (Rúa Maior 31).  
-- Afternoon: explore old town, buy pilgrim credential if needed.  
+- Check-in: **need to book**
+- Afternoon: explore old town.  
+  - Pick up pilgrim credential (credencial) at Iglesia de Santa Mariña, the Tourist Office on Rúa Maior. Monastery of La Magdalena is another option. (~€2–3 cash)  
 - Evening: pilgrim dinner.  
   - Recommended to join a lively spot such as Mesón O Tapas do Peregrino or O Descanso for the set pilgrim menu (starter, main, dessert, wine/water). These places are popular with walkers and a good way to meet fellow pilgrims before starting the Camino.  
-- Overnight: O Durmiñento.  
+- Overnight: **need to book**
 
 ### Days 3–7 – Sept 30 to Oct 4 (Camino Francés – last 115 km)
 - **Day 3 (Sept 30):** Sarria → Portomarín (~22 km)  
@@ -81,33 +78,38 @@ Traveler: David Van Dyke
 
 ### Day 8 – Sun Oct 5
 - Full day in Santiago.  
-- Pilgrim’s Mass, cathedral visit, optional Finisterre/Muxía excursion.  
+- Morning: Pilgrim’s Mass or cathedral museum/rooftop tour.  
+- Afternoon: wander the old town, Alameda Park, and relax at a café.  
+- Evening tapas crawl on Rúa do Franco.  
 - Overnight: Santiago.  
 
 ### Day 9 – Mon Oct 6
-- Morning: train or short flight Santiago → Madrid (~3 hrs train).  
-- Evening: tapas crawl in La Latina or Malasaña.  
-- Overnight: Madrid.  
+- Day trip to Finisterre & Muxía.  
+- Morning bus to Finisterre (~2.5 hrs). Visit lighthouse, beach, and port.  
+- Continue to Muxía for the Sanctuary of Nosa Señora da Barca on the rocky coast.  
+- Evening bus back to Santiago (~2.5 hrs).  
+- Overnight: Santiago.  
 
 ### Day 10 – Tue Oct 7
-- Full day in Madrid.  
-- Options: Prado, Reina Sofía, Royal Palace, Mercado de San Miguel.  
-- Overnight: Madrid.  
+- Leisurely morning in Santiago — final cathedral plaza coffee or stroll.  
+- Afternoon train or short flight to Madrid (~3 hrs AVE train, ~1 hr flight).  
+- Evening: tapas crawl in La Latina or Malasaña.  
+- Overnight: Madrid (stay near Sol, Gran Vía, or La Latina).  
 
 ### Day 11 – Wed Oct 8
 - 11:35 — Flight Madrid → Chicago ORD.  
 - 18:00 — Flight Chicago → Muskegon.  
+- Pick up Gus
 - Home.  
 
 ---
 
-## Packing List – REI Trail 40L
+## Packing List
 
 ### Documents & Money
-- Passport + photocopy  
-- Pilgrim credential (credencial)  
+- Passport 
 - Flight & train tickets (digital copies on phone + 1 printed copy as backup)  
-- Credit card + some euro cash  
+- Credit + ATM cards
 
 ### Pack Setup
 - REI Trail 40 backpack with built-in rain cover  
@@ -122,9 +124,8 @@ Traveler: David Van Dyke
 - 1 REI Sahara Stretch Convertible Pants (trail use, doubles as shorts)  
 - 1 Prana Stretch Zion Pants (town/exploring Spain)  
 - 1 lightweight shorts (backup rotation)  
-- 3 pairs quick-dry underwear (2 ExOfficio + 1 synthetic/merino)  
+- 3 pairs quick-dry underwear (2 ExOfficio + 1 Smartwool synthetic/merino)  
 - 3 pairs hiking socks (merino blend)  
-- Optional: 1 merino polo or collared shirt for town  
 
 ### Footwear
 - Altra Lone Peak 9 Trail Running Shoes (primary walking shoes)  
@@ -140,30 +141,28 @@ Traveler: David Van Dyke
 - Sunscreen (50 ml to start; refill in Spain)  
 - Lip balm with SPF  
 - Nail clippers  
+- Disposable contacts as glasses backup
 - Optional: Small travel shampoo or shampoo bar (can skip or buy in Spain)  
 
 ### Health & First Aid
 - Walgreens blister pads (Compeed-style hydrocolloid)  
-- A few Band-Aids + athletic tape  
 - Ibuprofen  
 - Hand sanitizer + tissues  
 - Earplugs + eye mask (for noisy albergues)  
 - Disposable contact lenses (a few as backup)  
 
 ### Electronics
-- Phone + charger  
-- Plug adapter (Type C/E, 220V)  
-- Power bank (charges with MacBook Air USB-C cable)  
-- AirPods or headphones  
+- Phone + USB-C cord  
+- EU Plug adapter 
+- AirPods
 - Apple Watch + charger  
-- 13″ MacBook Air (also charger for power bank)  
+- 13″ MacBook Air (with power bank/cord)  
 
 ### Other
 - Sunglasses  
-- Hat (brimmed for sun/rain)  
-- Lightweight guide notes  
+- Hat
 - Safety pins or clothesline for drying  
-- Sleep sack / liner (silk or lightweight synthetic, for albergues)  
+- Sleep sack / liner (for albergues)  
 - 2 × 1 L bottles (Smartwater style — bring 1 from home, buy 1 in Spain)  
 
 ---
@@ -178,7 +177,6 @@ Traveler: David Van Dyke
 ---
 
 ## Notes & Next Steps
-- Confirm Camino lodging (Sarria booked, reserve key towns).  
-- Book Santiago (Oct 4–5) and Madrid (Oct 6–7) hotels.  
-- Decide on Finisterre/Muxía excursion (Oct 5).  
+- Confirm Camino lodging
+- Book Santiago (Oct 4–5) and Madrid (Oct 6–7) hotels.   
 - Print or store Renfe QR code + Combinado Cercanías info on phone. 
