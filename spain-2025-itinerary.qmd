@@ -9,11 +9,9 @@ format:
 ## Itinerary
 
 ### Day 1 – Sun Sept 28
-- Drop off Gus
-- Muskegon → Chicago (KG 5760, dep 12:05 pm, arr 11:55 am)  
-  - Connection at Chicago ORD: Arrive Terminal 3 (Denver Air Connection). Iberia also departs Terminal 3.
-  - You can access the **American Airlines Flagship Lounge** in T3 near Gate K19 with your Iberia business class boarding pass.
-- Chicago ORD → Madrid (Iberia IB 342, dep 4:30 pm, arr Sept 29 7:55 am)
+- Muskegon → Chicago (KG 5760, dep 12:05 pm, arr 11:55 am) Denver Air Connection Booking Reference: AAZXSG
+  - **American Airlines Flagship Lounge** in T3 near Gate K19
+- Chicago ORD → Madrid (Iberia IB 342, dep 4:30 pm, arr Sept 29 7:55 am) Iberia Booking Reference: ETKT494 2300390565/01-02
 
 ### Day 2 – Mon Sept 29
 - 07:55 — Arrive Madrid Barajas T4.  
@@ -24,7 +22,7 @@ format:
   - Select Chamartín as your destination.
   - Take line **C1 or C10** (~20 min, trains every 15–20 min).  
 - ~09:30 — Arrive Chamartín, coffee/snack.  
-- 10:04 — Depart Chamartín (AVE 05273, Confort, seat 05B)  
+- 10:04 — Depart Chamartín (AVE 05273, Confort, seat 05B) Booking Reference: MLVGKH-3EFcRFjV  
 - 12:18 — Arrive Ourense.  
   - Follow signs to the connecting MD (Media Distancia) platform.
   - Your ticket already includes the connection; no need to revalidate, just check the platform number on the departure board.
@@ -33,7 +31,7 @@ format:
 - 13:47 — Arrive Sarria  
   - Walk from the train station to **Albergue O Durmiñento** (~1 km / 10–12 minutes):  
   Exit the station and turn right onto Rúa Calvo Sotelo, pass the café by the corner, continue straight toward the old town, then turn left onto Rúa Maior. Follow Rúa Maior past the church of Santa Mariña; the albergue is further along at no. 48.  
-- Check-in: **Albergue O Durmiñento** (Confirmation no. 6103.134.828).  
+- Check-in: **Albergue O Durmiñento** (Booking.com Confirmation no. 6103.134.828).  
 - Afternoon: explore old town.  
   - Pick up pilgrim credential (credencial) at Iglesia de Santa Mariña, the Tourist Office on Rúa Maior. Monastery of La Magdalena is another option. (~€2–3 cash)  
 - Evening: pilgrim dinner.  
@@ -42,25 +40,28 @@ format:
 ### Days 3–7 – Sept 30 to Oct 4 (Camino Francés – last 115 km)
 - **Day 3 (Sept 30):** Sarria → Portomarín (~22 km)  
   - Cross the Miño River into Portomarín, where the Church of San Nicolás was relocated stone by stone when the original town was flooded for the Belesar reservoir.
+  - Overnight: Portomarín TBD
 - **Day 4 (Oct 1):** Portomarín → Palas de Rei (~25 km)  
   - Pass historic pilgrim hospices at Hospital de la Cruz and end in Palas de Rei, whose Church of San Tirso preserves remarkable medieval carvings.
+  - Overnight: Palas de Rei TBD
 - **Day 5 (Oct 2):** Palas de Rei → Arzúa (~29 km)  
   - Often stop in Melide, famous for pulpo a la gallega (octopus) and the Romanesque church at Leboreiro.  
   - Arzúa is known for its cheese production and nearby Ribadiso hosts a medieval pilgrim hospital.
+  - Overnight: Arzúa TBD
 - **Day 6 (Oct 3):** Arzúa → O Pedrouzo (~19 km)  
   - En route visit the chapel of Santa Irene and experience the atmosphere of anticipation in O Pedrouzo as pilgrims gather for the final day.
+  - Overnight: O Pedrouzo TBD
 - **Day 7 (Oct 4):** O Pedrouzo → Santiago (~20 km)  
   - Highlights include Lavacolla, the traditional cleansing site, Monte do Gozo offering panoramic views of Santiago, and attending the Pilgrim’s Mass featuring the Botafumeiro.
   - Collect Compostela certificate in Santiago.  
-  - Check-in: **Pensión Rua Nova** (Rúa Nova, 4, Santiago de Compostela; Confirmation no. 6216.069.981).  
-  - Overnight: Pensión Rua Nova (Single room with private bathroom, free Wi-Fi, pedestrian old town location).  
-
+  - Overnight: **Pensión Rua Nova** (Rúa Nova, 4, Santiago de Compostela; Booking.com Confirmation no. 6216.069.981).  
+  
 ### Day 8 – Sun Oct 5
 - Full day in Santiago.  
-- Morning: Pilgrim’s Mass or cathedral museum/rooftop tour.  
+- Morning: Pilgrim’s Mass and/or cathedral museum/rooftop tour.  
 - Afternoon: wander the old town, Alameda Park, and relax at a café.  
 - Evening tapas crawl on Rúa do Franco.  
-- Overnight: Santiago.  
+- Overnight: Pensión Rua Nova (Single room with private bathroom, free Wi-Fi, pedestrian old town location).  
 
 ### Day 9 – Mon Oct 6
 - Morning bus to Finisterre (~2.5 hrs).  
@@ -73,14 +74,11 @@ format:
 - Midday bus back to Santiago (~2.5 hrs).  
 - Connect onward to Madrid in the afternoon (~3 hrs AVE train, ~1 hr flight).  
 - Evening tapas crawl in La Latina or Malasaña.  
-- Overnight: Madrid (stay near Sol, Gran Vía, or La Latina).  
+- Overnight: Madrid TBD (stay near Sol, Gran Vía, or La Latina).  
 
 ### Day 11 – Wed Oct 8
 - Madrid → Chicago ORD (Iberia IB 341, dep 11:35 am, arr 2:15 pm)  
 - Chicago → Muskegon (KG 5775, dep 6:00 pm, arr 7:50 pm)
-
-- Pick up Gus
-- Home.  
 
 ---
 
@@ -147,30 +145,11 @@ format:
 
 ---
 
-- **Camino towns (Sept 30–Oct 4):** book 1–2 nights ahead, especially Portomarín & Arzúa.  
-- **Santiago (Oct 4–5):** reserve hotel now (city fills with pilgrims).  
-- **Madrid (Oct 6–7):** stay near Sol, Gran Vía, or La Latina.  
-
----
-
 ## Notes & Next Steps
-- Confirm Camino lodging
-- Book Santiago (Oct 4–7) and Madrid (Oct 6–7) hotels.   
+- **Camino towns (Sept 30–Oct 4):** book 1–2 nights ahead, especially Portomarín & Arzúa.  
+- Book AVE from Santiago to Madrid
+- Book Madrid (Oct 6–7) hotels.
+- Decide 2 vs. 3 nights in Santiago +/- daytrip to Finisterre or other vs. Overnight in Finisterre
 - Print or store Renfe QR code + Combinado Cercanías info on phone.  
 
 ---
-
-### Summary of Tickets (Booked)
-
-- **Flights**
-  - Denver Air Connection Booking Reference: AAZXSG
-    - Sept 28: Muskegon → Chicago (KG 5760, dep 12:05 pm, arr 11:55 am)
-    - Oct 8: Chicago → Muskegon (KG 5775, dep 6:00 pm, arr 7:50 pm)
-  - Iberia Booking Reference: ETKT494 2300390565/01-02
-    - Sept 28: Chicago ORD → Madrid (IB 342, dep 4:30 pm, arr Sept 29 7:55 am)
-    - Oct 8: Madrid → Chicago ORD (IB 341, dep 11:35 am, arr 2:15 pm)
-
-- **Train**
-  - Booking Reference: MLVGKH-3EFcRFjV
-    - Sept 29: Madrid Chamartín → Ourense (AVE 05273, dep 10:04 am, arr 12:18 pm, seat 05B Confort)
-    - Sept 29: Ourense → Sarria (MD 12694, dep 12:32 pm, arr 1:47 pm)
