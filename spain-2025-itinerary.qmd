@@ -9,23 +9,24 @@ format:
 ## Itinerary
 
 ### Day 1 – Sun Sept 28
-- Muskegon → Chicago (KG 5760, dep 12:05 pm, arr 11:55 am) Denver Air Connection Booking Reference: AAZXSG
-  - **American Airlines Flagship Lounge** in T3 near Gate K19
-- Chicago ORD → Madrid (Iberia IB 342, dep 4:30 pm, arr Sept 29 7:55 am) Iberia Booking Reference: ETKT494 2300390565/01-02
+- Muskegon → Chicago (KG 5760, dep 12:05 pm, arr 11:55 am)
+  - *Denver Air Connection Booking Reference: AAZXSG*
+- American Airlines Flagship Lounge in T3 near Gate K19
+- Chicago ORD → Madrid (Iberia IB 342, dep 4:30 pm, arr Sept 29 7:55 am)
+  - *Iberia Booking Reference: ETKT494 2300390565/01-02*
 
 ### Day 2 – Mon Sept 29
 - 07:55 — Arrive Madrid Barajas T4.  
-- **08:50–09:10 — Transfer to Chamartín (Cercanías train):**
+- 08:50–09:10 — Transfer to Chamartín (Cercanías train):
   - Follow signs for **Cercanías / Renfe** at T4.  
   - Go down to the Cercanías station located beneath T4.
   - Use your Renfe ticket's "Combinado Cercanías" code to get a free Cercanías ticket from the red/white Renfe ticket machines.
-  - Select Chamartín as your destination.
+  - Select **Chamartín** as your destination.
   - Take line **C1 or C10** (~20 min, trains every 15–20 min).  
 - ~09:30 — Arrive Chamartín, coffee/snack.  
 - 10:04 — Depart Chamartín (AVE 05273, Confort, seat 05B) Booking Reference: MLVGKH-3EFcRFjV  
 - 12:18 — Arrive Ourense.  
   - Follow signs to the connecting MD (Media Distancia) platform.
-  - Your ticket already includes the connection; no need to revalidate, just check the platform number on the departure board.
   - The transfer window is short (~14 minutes), so move directly from arrival platform to the regional train platform.
 - 12:32 — Depart Ourense (MD 12694)  
 - 13:47 — Arrive Sarria  
