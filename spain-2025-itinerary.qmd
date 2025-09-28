@@ -120,7 +120,6 @@ format:
 ### Toiletries
 - Toothbrush + small toothpaste  
 - Dr. Bronner’s Organic Liquid Soap – 2 oz (body + laundry)  
-- Optional: Laundry detergent sheets (½ sheet per sink load, fresher smell, easier rinsing)  
 - Travel deodorant  
 - Razor + small shaving cream  
 - Quick-dry towel (microfiber)  
@@ -128,12 +127,11 @@ format:
 - Lip balm with SPF  
 - Nail clippers  
 - Disposable contacts as glasses backup
-- Optional: Small travel shampoo or shampoo bar (can skip or buy in Spain)  
 
 ### Health & First Aid
 - Walgreens blister pads (Compeed-style hydrocolloid)  
-- Ibuprofen  
-- Hand sanitizer + tissues  
+- Ibuprofen / acetaminophen / citalopram / ambien
+- Hand sanitizer
 - Earplugs + eye mask (for noisy albergues)  
 - Disposable contact lenses (a few as backup)  
 
@@ -141,20 +139,18 @@ format:
 - Phone + USB-C cord  
 - EU Plug adapter 
 - AirPods
-- Apple Watch + charger  
 - 13″ MacBook Air (with power bank/cord)  
 
 ### Other
 - Sunglasses  
 - Hat
-- Safety pins or clothesline for drying (**TBD**) 
+- Clothesline for drying
 - Sleep sack / liner (for albergues)  
 - 2 × 1 L bottles (Smartwater style — bring 1 from home, buy 1 in Spain)  
 
 ---
 
 ## Notes & Next Steps
-- pack backpack
 - Book Madrid (Oct 6–7) hotel.
 - Decide 2 vs. 3 nights in Santiago +/- daytrip to Finisterre or other vs. Overnight in Finisterre
 
@@ -171,9 +167,6 @@ format:
 - **Positioning flights (MKG ↔ ORD)**  
   - **MKG → ORD (Denver Air Connection KG 5760)** — Booking reference: AAZXSG  
   - **ORD → MKG (Denver Air Connection KG 5775)** — Booking reference: AAZXSG  
-- **Airline contact & apps**  
-  - Iberia: manage via Iberia app / iberia.com (booking & mobile boarding passes).  
-  - Denver Air Connection: iflysouthern.com – manage booking / contact via website.
 
 ### Trains
 - **Sep 29 — Madrid Chamartín → Ourense (AVE 05273, Confort seat 05B)**  
