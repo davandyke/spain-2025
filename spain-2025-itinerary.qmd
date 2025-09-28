@@ -9,6 +9,9 @@ format:
 ## Itinerary
 
 ### Day 1 – Sun Sept 28
+- **Timing for departure day (Sun Sept 28):**
+  - **10:00 am** — Drop **Gus** at daycare. Drive time from daycare to MKG is ~40 minutes.
+  - **10:50 am** — Arrive at **Muskegon (MKG)** for check-in/security for **KG 5760** (12:05 pm departure).
 - Muskegon → Chicago (KG 5760, dep 12:05 pm, arr 11:55 am)
   - *Denver Air Connection Booking Reference: AAZXSG*
 - American Airlines Flagship Lounge in T3 near Gate K19
@@ -32,7 +35,7 @@ format:
 - 13:47 — Arrive Sarria  
   - Walk from the train station to **Albergue O Durmiñento** (~1 km / 10–12 minutes):  
   Exit the station and turn right onto Rúa Calvo Sotelo, pass the café by the corner, continue straight toward the old town, then turn left onto Rúa Maior. Follow Rúa Maior past the church of Santa Mariña; the albergue is further along at no. 48.  
-- Check-in: **Albergue O Durmiñento** (Booking.com Confirmation no. 6103.134.828).  
+- Check-in: **Albergue O Durmiñento**.  
 - Afternoon: explore old town.  
   - Pick up pilgrim credential (credencial) at Iglesia de Santa Mariña, the Tourist Office on Rúa Maior. Monastery of La Magdalena is another option. (~€2–3 cash)  
 - Evening: pilgrim dinner.  
@@ -41,21 +44,21 @@ format:
 ### Days 3–7 – Sept 30 to Oct 4 (Camino Francés – last 115 km)
 - **Day 3 (Sept 30):** Sarria → Portomarín (~22 km)  
   - Cross the Miño River into Portomarín, where the Church of San Nicolás was relocated stone by stone when the original town was flooded for the Belesar reservoir.
-  - Overnight: **Pensión Albergue Gonzar** (Booking.com Confirmation no. 5222.020.161)
+  - Overnight: **Pensión Albergue Gonzar**
 - **Day 4 (Oct 1):** Portomarín → Palas de Rei (~25 km)  
   - Pass historic pilgrim hospices at Hospital de la Cruz and end in Palas de Rei, whose Church of San Tirso preserves remarkable medieval carvings.
-  - Overnight: **Albergue San Marcos** (Booking.com Confirmation no. 6000.902.246)
+  - Overnight: **Albergue San Marcos**
 - **Day 5 (Oct 2):** Palas de Rei → Arzúa (~29 km)  
   - Often stop in Melide, famous for pulpo a la gallega (octopus) and the Romanesque church at Leboreiro.  
   - Arzúa is known for its cheese production and nearby Ribadiso hosts a medieval pilgrim hospital.
-  - Overnight: **Cruce de Caminos Arzúa** (Booking.com Confirmation no. 6336.672.796) — refundable, backup if not staying at Ribadiso
+  - Overnight: **Cruce de Caminos Arzúa** — refundable, backup if not staying at Ribadiso
 - **Day 6 (Oct 3):** Arzúa → O Pedrouzo (~19 km)  
   - En route visit the chapel of Santa Irene and experience the atmosphere of anticipation in O Pedrouzo as pilgrims gather for the final day.
-  - Overnight: **Albergue REM** (Booking.com Confirmation no. 6475.800.457)
+  - Overnight: **Albergue REM**
 - **Day 7 (Oct 4):** O Pedrouzo → Santiago (~20 km)  
   - Highlights include Lavacolla, the traditional cleansing site, Monte do Gozo offering panoramic views of Santiago, and attending the Pilgrim’s Mass featuring the Botafumeiro.
   - Collect Compostela certificate in Santiago.  
-  - Overnight: **Pensión Rua Nova** (Rúa Nova, 4, Santiago de Compostela; Booking.com Confirmation no. 6216.069.981).  
+  - Overnight: **Pensión Rua Nova** (Rúa Nova, 4, Santiago de Compostela).  
   
 ### Day 8 – Sun Oct 5
 - Full day in Santiago.  
@@ -65,10 +68,12 @@ format:
 - Overnight: **Pensión Rua Nova** (Single room with private bathroom, free Wi-Fi, pedestrian old town location).  
 
 ### Day 9 – Mon Oct 6
+- **Decision point:** Reassess energy and weather on the evening of Oct 4 (after arrival in Santiago) to decide whether to overnight in Finisterre or remain in Santiago
 - Morning bus to Finisterre (~2.5 hrs).  
 - Explore the fishing port, beach, and town.  
 - Evening walk to Cabo Fisterra lighthouse for sunset at the “end of the world.”  
 - Overnight: **Finisterre (book in Santiago if weather/energy permit) OR third night in Santiago** — decision to be made after arrival.
+.
 
 ### Day 10 – Tue Oct 7
 - Morning in Finisterre — coffee in town or short coastal stroll.  
@@ -79,7 +84,7 @@ format:
 - Overnight: Madrid **hotel TBD — recommended Sol/Gran Vía/La Latina area**.  
 
 ### Day 11 – Wed Oct 8
-- Cercanías train to Bajaras T4
+- **08:30 am** — Arrive at Madrid Barajas T4 (recommended 3 hrs before departure, take Cercanías train from central Madrid).
 - Madrid → Chicago ORD (Iberia IB 341, dep 11:35 am, arr 2:15 pm)  
 - Chicago → Muskegon (KG 5775, dep 6:00 pm, arr 7:50 pm)
 
@@ -154,3 +159,55 @@ format:
 - Decide 2 vs. 3 nights in Santiago +/- daytrip to Finisterre or other vs. Overnight in Finisterre
 
 ---
+
+## Trip References (Bookings & Contacts)
+
+### Flights
+- **Sep 28 — ORD → MAD (Iberia IB 342)**  
+  - Booking reference / ticket: ETKT494 2300390565/01-02 (from confirmation)  
+  - Check lounge: AA Flagship Lounge T3 near Gate K19  
+- **Oct 8 — MAD → ORD (Iberia IB 341)**  
+  - Booking reference / ticket: ETKT494 2300390565/01-02 (same ticket)  
+- **Positioning flights (MKG ↔ ORD)**  
+  - **MKG → ORD (Denver Air Connection KG 5760)** — Booking reference: AAZXSG  
+  - **ORD → MKG (Denver Air Connection KG 5775)** — Booking reference: AAZXSG  
+- **Airline contact & apps**  
+  - Iberia: manage via Iberia app / iberia.com (booking & mobile boarding passes).  
+  - Denver Air Connection: iflysouthern.com – manage booking / contact via website.
+
+### Trains
+- **Sep 29 — Madrid Chamartín → Ourense (AVE 05273, Confort seat 05B)**  
+  - Booking reference: **MLVGKH** | Ticket no.: **7284301895603**  
+- **Sep 29 — Ourense → Sarria (MD 12694)**  
+  - Included on same Renfe booking (**MLVGKH**)  
+- **Oct 7 — Santiago → Madrid Chamartín (AVE 04314, Confort seat 4D)**  
+  - Booking reference: **KYC3XB** | Ticket no.: **7983901902236**  
+- **Renfe notes**  
+  - **Combinado Cercanías** included on both Renfe bookings (use code printed on the ticket at Cercanías machines).
+
+### Lodging
+- **Sep 29 — Sarria: Albergue O Durmiñento**  
+  - Address: Calle Mayor 48, 27600 Sarria, Spain  
+  - Phone: +34 600 86 25 08  
+  - Booking.com Confirmation: **6103.134.828** | PIN: **5586**
+- **Sep 30 — Portomarín: Pensión Albergue Gonzar**  
+  - Address: Rúa do Peregrino 24, 27170 Portomarín, Spain  
+  - Phone: +34 683 58 02 70  
+  - Booking.com Confirmation: **5222.020.161** | PIN: **2336**
+- **Oct 1 — Palas de Rei: Albergue San Marcos**  
+  - Address: Rúa Cruceiro 10, 27200 Palas de Rei, Spain  
+  - Phone: +34 982 38 07 11  
+  - Booking.com Confirmation: **6000.902.246** | PIN: **7261**
+- **Oct 2 — Arzúa: Cruce de Caminos Arzúa**  
+  - Address: Rúa Cima do Lugar s/n, 15810 Arzúa, Spain  
+  - Phone: +34 604 05 13 53  
+  - Booking.com Confirmation: **6336.672.796** | PIN: **1337**
+- **Oct 3 — O Pedrouzo: Albergue REM**  
+  - Address: Avda. de la Iglesia nº7, 15821 O Pino (O Pedrouzo), Spain  
+  - Phone: +34 617 78 86 35  
+  - Booking.com Confirmation: **6475.800.457** | PIN: **7342**
+- **Oct 4–6 — Santiago de Compostela: Pensión Rúa Nova**  
+  - Address: Rúa Nova, 4, 15705 Santiago de Compostela, Spain  
+  - Phone: +34 981 95 80 09  
+  - Reservation: **#6216069981** (via Booking.com)  
+  - **Check-in / key pickup:** Hotel Rúa Villar, Rúa do Vilar 8–10 (24h reception); Phone: +34 981 519 858
