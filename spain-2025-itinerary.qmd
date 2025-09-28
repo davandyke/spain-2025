@@ -9,11 +9,8 @@ format:
 ## Itinerary
 
 ### Day 1 – Sun Sept 28
-- **Timing for departure day (Sun Sept 28):**
-  - **10:00 am** — Drop **Gus** at daycare. Drive time from daycare to MKG is ~40 minutes.
-  - **10:50 am** — Arrive at **Muskegon (MKG)** for check-in/security for **KG 5760** (12:05 pm departure).
 - Muskegon → Chicago (KG 5760, dep 12:05 pm, arr 11:55 am)
-- American Airlines Flagship Lounge in T3 near Gate K19
+  - American Airlines Flagship Lounge in T3 near Gate K19
 - Chicago ORD → Madrid (Iberia IB 342, dep 4:30 pm, arr Sept 29 7:55 am)
 
 ### Day 2 – Mon Sept 29
@@ -71,7 +68,6 @@ format:
 - Explore the fishing port, beach, and town.  
 - Evening walk to Cabo Fisterra lighthouse for sunset at the “end of the world.”  
 - Overnight: **Finisterre (book in Santiago if weather/energy permit) OR third night in Santiago** — decision to be made after arrival.
-.
 
 ### Day 10 – Tue Oct 7
 - Morning in Finisterre — coffee in town or short coastal stroll.  
@@ -79,10 +75,16 @@ format:
 - 11:48 — Depart Santiago (AVE 04314, Confort, seat 4D, Booking Reference: KYC3XB).  
 - 14:50 — Arrive Madrid Chamartín.  
 - Evening tapas crawl in La Latina or Malasaña.  
-- Overnight: Madrid **hotel TBD — recommended Sol/Gran Vía/La Latina area**.  
-
+- Overnight: **Petit Palace Plaza Mayor**  
+ 
 ### Day 11 – Wed Oct 8
-- **08:30 am** — Arrive at Madrid Barajas T4 (recommended 3 hrs before departure, take Cercanías train from central Madrid).
+- **08:30 am** — Arrive at Madrid Barajas T4 (recommended 3 hrs before departure, take Cercanías train from central Madrid).  
+- From Petit Palace Plaza Mayor:  
+  - Walk ~5 min to Sol station.  
+  - Take Cercanías C3 or C4 northbound to Chamartín (~10 min).  
+  - At Chamartín, transfer to Cercanías C1 or C10 directly to Barajas T4 (~15–20 min).  
+  - Total travel time ~40 min including transfer. Trains run every 15–20 min.  
+  - Alternative: Taxi/Uber directly to T4 (~25–35 min, €30–35 flat rate).
 - Madrid → Chicago ORD (Iberia IB 341, dep 11:35 am, arr 2:15 pm)  
 - Chicago → Muskegon (KG 5775, dep 6:00 pm, arr 7:50 pm)
 
@@ -94,6 +96,8 @@ format:
 - Passport 
 - Flight & train tickets (digital copies on phone + 1 printed copy as backup)  
 - Credit + ATM cards
+- Euro cash
+- Priority Health card
 
 ### Pack Setup
 - REI Trail 40 backpack with built-in rain cover  
@@ -124,17 +128,17 @@ format:
 - Sunscreen (50 ml to start; refill in Spain)  
 - Lip balm with SPF  
 - Nail clippers  
-- Disposable contacts as glasses backup
 
 ### Health & First Aid
 - Walgreens blister pads (Compeed-style hydrocolloid)  
 - Ibuprofen / acetaminophen / citalopram / ambien
 - Hand sanitizer
+- tissue
 - Earplugs + eye mask (for noisy albergues)  
-- Disposable contact lenses (a few as backup)  
+- Disposable contact lenses (a few as glasses backup)  
 
 ### Electronics
-- Phone + USB-C cord  
+- iPhone + USB-C cord  
 - EU Plug adapter 
 - AirPods
 - 13″ MacBook Air (with power bank/cord)  
@@ -144,12 +148,13 @@ format:
 - Hat
 - Clothesline for drying
 - Sleep sack / liner (for albergues)  
+- Nite Ize gear tie 6" x 2
 - 2 × 1 L bottles (Smartwater style — bring 1 from home, buy 1 in Spain)  
+- pen
 
 ---
 
 ## Notes & Next Steps
-- Book Madrid (Oct 6–7) hotel.
 - Decide 2 vs. 3 nights in Santiago +/- daytrip to Finisterre or other vs. Overnight in Finisterre
 
 ---
@@ -159,7 +164,6 @@ format:
 ### Flights
 - **Sep 28 — ORD → MAD (Iberia IB 342)**  
   - Booking reference / ticket: ETKT494 2300390565/01-02 (from confirmation)  
-  - Check lounge: AA Flagship Lounge T3 near Gate K19  
 - **Oct 8 — MAD → ORD (Iberia IB 341)**  
   - Booking reference / ticket: ETKT494 2300390565/01-02 (same ticket)  
 - **Positioning flights (MKG ↔ ORD)**  
@@ -202,3 +206,8 @@ format:
   - Phone: +34 981 95 80 09  
   - Reservation: **#6216069981** (via Booking.com)  
   - **Check-in / key pickup:** Hotel Rúa Villar, Rúa do Vilar 8–10 (24h reception); Phone: +34 981 519 858
+- **Oct 7 — Madrid: Petit Palace Plaza Mayor**  
+  - Address: C/ Mayor 46, 28013 Madrid, Spain  
+  - Phone: +34 915 42 69 99  
+  - Booking reference: H-867N8NVNLG3T (Capital One Travel, Confirmation 102-19517563)  
+  - Reservation: Check-in Oct 7 at 2:00 p.m., checkout Oct 8 at 12:00 p.m.  
