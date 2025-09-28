@@ -13,10 +13,8 @@ format:
   - **10:00 am** — Drop **Gus** at daycare. Drive time from daycare to MKG is ~40 minutes.
   - **10:50 am** — Arrive at **Muskegon (MKG)** for check-in/security for **KG 5760** (12:05 pm departure).
 - Muskegon → Chicago (KG 5760, dep 12:05 pm, arr 11:55 am)
-  - *Denver Air Connection Booking Reference: AAZXSG*
 - American Airlines Flagship Lounge in T3 near Gate K19
 - Chicago ORD → Madrid (Iberia IB 342, dep 4:30 pm, arr Sept 29 7:55 am)
-  - *Iberia Booking Reference: ETKT494 2300390565/01-02*
 
 ### Day 2 – Mon Sept 29
 - 07:55 — Arrive Madrid Barajas T4.  
