@@ -16,20 +16,10 @@ format:
 ### Day 2 – Mon Sept 29
 - 07:55 — Arrive Madrid Barajas T4.  
 - 08:50–09:10 — Transfer to Chamartín (Cercanías train):
-  - Follow signs for **Cercanías / Renfe** at T4.  
-  - Go down to the Cercanías station located beneath T4.
-  - Use your Renfe ticket's "Combinado Cercanías" code to get a free Cercanías ticket from the red/white Renfe ticket machines.
-  - Select **Chamartín** as your destination.
-  - Take line **C1 or C10** (~20 min, trains every 15–20 min).  
-- ~09:30 — Arrive Chamartín, coffee/snack.  
-- 10:04 — Depart Chamartín (AVE 05273, Confort, seat 05B) Booking Reference: MLVGKH-3EFcRFjV  
+- 10:04 — Depart Chamartín (AVE 05273, Confort, seat 05B)
 - 12:18 — Arrive Ourense.  
-  - Follow signs to the connecting MD (Media Distancia) platform.
-  - The transfer window is short (~14 minutes), so move directly from arrival platform to the regional train platform.
 - 12:32 — Depart Ourense (MD 12694)  
-- 13:47 — Arrive Sarria  
-  - Walk from the train station to **Albergue O Durmiñento** (~1 km / 10–12 minutes):  
-  Exit the station and turn right onto Rúa Calvo Sotelo, pass the café by the corner, continue straight toward the old town, then turn left onto Rúa Maior. Follow Rúa Maior past the church of Santa Mariña; the albergue is further along at no. 48.  
+- 13:47 — Arrive Sarria   
 - Check-in: **Albergue O Durmiñento**.  
 - Afternoon: explore old town.  
   - Pick up pilgrim credential (credencial) at Iglesia de Santa Mariña, the Tourist Office on Rúa Maior. Monastery of La Magdalena is another option. (~€2–3 cash)  
@@ -46,7 +36,6 @@ The travel into Galicia was a bit of an adventure. My flight into Madrid was del
   - Cross the Miño River into Portomarín, where the Church of San Nicolás was relocated stone by stone when the original town was flooded for the Belesar reservoir.
   - Overnight: **Pensión Albergue Gonzar**
 
-
 ::: {.callout-note}
 **Daily Summary — Sept 30**  
 First walking day on the Camino: Sarria to Portomarín, about 22 km. We set out before the sun because my walking partner didn’t have reservations and needed to be sure to claim one of the first-come beds. The trail was wrapped in fog almost the whole morning until the sun finally burned through. Along the way we met another pilgrim from Madrid who decided to join us after overhearing Guillermo joke that the village we were passing looked like something straight out of the Resident Evil video game. We stopped for a pilgrim breakfast at Mirador da Brea, then pushed on to Portomarín.  
@@ -60,7 +49,7 @@ When I got to my hostel, I did the usual Camino routine: shower, laundry in the 
 - **Day 5 (Oct 2):** Palas de Rei → Arzúa (~29 km)  
   - Often stop in Melide, famous for pulpo a la gallega (octopus) and the Romanesque church at Leboreiro.  
   - Arzúa is known for its cheese production and nearby Ribadiso hosts a medieval pilgrim hospital.
-  - Overnight: **Cruce de Caminos Arzúa** — refundable, backup if not staying at Ribadiso
+  - Overnight: **Cruce de Caminos Arzúa**
 - **Day 6 (Oct 3):** Arzúa → O Pedrouzo (~19 km)  
   - En route visit the chapel of Santa Irene and experience the atmosphere of anticipation in O Pedrouzo as pilgrims gather for the final day.
   - Overnight: **Albergue REM**
