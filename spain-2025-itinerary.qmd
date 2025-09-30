@@ -36,10 +36,29 @@ format:
 - Evening: pilgrim dinner.  
   - Recommended to join a lively spot such as Mesón O Tapas do Peregrino or O Descanso for the set pilgrim menu (starter, main, dessert, wine/water). These places are popular with walkers and a good way to meet fellow pilgrims before starting the Camino.  
 
+  ::: {.callout-note}
+**Daily Summary — Sept 29**  
+The travel into Galicia was a bit of an adventure. My flight into Madrid was delayed, which made me miss my original train. I caught a later one, but even that got interrupted because wildfires had closed part of the tracks, so we all had to switch to a bus for the last stretch. By the time I finally made it to Sarria about 9:30 pm, I was ready to settle in. I checked into my hostel and had a pilgrim dinner with a new friend from Salamanca who arrived around the same time. The meal was classic Galician: caldo gallego, Estrella beer, and roasted pork. Galicia is famous for its rain, but so far the weather has been unexpectedly kind. I also got my pilgrim credential and my very first stamp—fittingly, at the restaurant where I ate dinner.  
+:::
+
+::: {layout-ncol=2}
+![](images/sep29-lounge.jpeg){fig-cap="ORD lounge fuel-up" alt="Plate of food with cava in airport lounge"}
+![](images/sep29-train.jpeg){fig-cap="Chamartín station" alt="Crowds boarding trains in Madrid"}
+:::
+
 ### Days 3–7 – Sept 30 to Oct 4 (Camino Francés – last 115 km)
 - **Day 3 (Sept 30):** Sarria → Portomarín (~22 km)  
   - Cross the Miño River into Portomarín, where the Church of San Nicolás was relocated stone by stone when the original town was flooded for the Belesar reservoir.
   - Overnight: **Pensión Albergue Gonzar**
+
+
+::: {.callout-note}
+**Daily Summary — Sept 30**  
+First walking day on the Camino: Sarria to Portomarín, about 22 km. We set out before the sun because my walking partner didn’t have reservations and needed to be sure to claim one of the first-come beds. The trail was wrapped in fog almost the whole morning until the sun finally burned through. Along the way we met another pilgrim from Madrid who decided to join us after overhearing Guillermo joke that the village we were passing looked like something straight out of the Resident Evil video game. We stopped for a pilgrim breakfast at Mirador da Brea, then pushed on to Portomarín.  
+
+When I got to my hostel, I did the usual Camino routine: shower, laundry in the sink, and then a much-needed nap. Later in the afternoon I wandered through the old town of Portomarín, which was rebuilt stone by stone on higher ground after a dam project flooded the original village in the 1960s. Now I’m back on the albergue patio with a café con leche, enjoying the quiet before heading out for dinner.  
+:::
+
 - **Day 4 (Oct 1):** Portomarín → Palas de Rei (~25 km)  
   - Pass historic pilgrim hospices at Hospital de la Cruz and end in Palas de Rei, whose Church of San Tirso preserves remarkable medieval carvings.
   - Overnight: **Albergue San Marcos**
@@ -170,11 +189,8 @@ format:
   - **MKG → ORD (Denver Air Connection KG 5760)** — Booking reference: AAZXSG  
   - **ORD → MKG (Denver Air Connection KG 5775)** — Booking reference: AAZXSG  
 
-### Trains
-- **Sep 29 — Madrid Chamartín → Ourense (AVE 05273, Confort seat 05B)**  
-  - Booking reference: **MLVGKH** | Ticket no.: **7284301895603**  
-- **Sep 29 — Ourense → Sarria (MD 12694)**  
-  - Included on same Renfe booking (**MLVGKH**)  
+- **Sep 29 — Madrid Chamartín → Ourense → Sarria (AVE 04375 + MD 12646)**  
+  - Booking reference: **48GF6P6V** | Ticket no.: **7516601904563**  
 - **Oct 7 — Santiago → Madrid Chamartín (AVE 04314, Confort seat 4D)**  
   - Booking reference: **KYC3XB** | Ticket no.: **7983901902236**  
 - **Renfe notes**  
