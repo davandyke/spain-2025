@@ -1,9 +1,15 @@
 ---
 title: "Spain Itinerary – Sept 28 to Oct 8, 2025"
 format:
-  html: default
-  pdf: default
-  docx: default
+  html:
+    toc: true
+    toc-depth: 3
+    smooth-scroll: true
+  pdf:
+    toc: true
+    number-sections: false
+  docx:
+    toc: true
 --- 
 
 ## Itinerary
@@ -23,28 +29,30 @@ format:
 - Afternoon: explore old town.  
 
 ::: {.callout-note}
-**Daily Summary — Sept 29**  
+Daily Summary — Sept 29  
 The travel into Galicia was a bit of an adventure. My flight into Madrid was delayed, which made me miss my original train. I caught a later one, but even that got interrupted because wildfires had closed part of the tracks, so we all had to switch to a bus for the last stretch. By the time I finally made it to Sarria about 9:30 pm, I was ready to settle in. I checked into my hostel and had a pilgrim dinner with a new friend from Salamanca who arrived around the same time. The meal was classic Galician: caldo gallego, Estrella beer, and roasted pork. Galicia is famous for its rain, but so far the weather has been unexpectedly kind. I also got my pilgrim credential and my very first stamp—fittingly, at the restaurant where I ate dinner.  
 :::
 
-### Days 3–7 – Sept 30 to Oct 4 (Camino Francés – last 115 km)
-- **Day 3 (Sept 30):** Sarria → Portomarín (~22 km)  
+-### Days 3–7 – Sept 30 to Oct 4 (Camino Francés – last 115 km)
+- Walking total for this section: ~115 km / 71 mi
+- **Day 3 (Sept 30):** Sarria → Portomarín (~22 km / 13.7 mi)  
+  - Route highlights: shaded hamlets around Barbadelo; Ferreiros (Km 100 milestone); Mercadoiro/Vilachá; descent to the Miño River and rebuilt Portomarín (Church of San Nicolás).
   - Cross the Miño River into Portomarín, where the Church of San Nicolás was relocated stone by stone when the original town was flooded for the Belesar reservoir.
   - Overnight: **Pensión Albergue Gonzar**
 
 ::: {.callout-note}
-**Daily Summary — Sept 30**  
+Daily Summary — Sept 30  
 First walking day on the Camino: Sarria to Portomarín, about 22 km. We set out before the sun because my walking partner didn’t have reservations and needed to be sure to claim one of the first-come beds. The trail was wrapped in fog almost the whole morning until the sun finally burned through. Along the way we met another pilgrim from Madrid who decided to join us after overhearing Guillermo joke that the village we were passing looked like something straight out of the Resident Evil video game. We stopped for a pilgrim breakfast at Mirador da Brea, then pushed on to Portomarín.  
 
 When I got to my hostel, I did the usual Camino routine: shower, laundry in the sink, and then a much-needed nap. Later in the afternoon I wandered through the old town of Portomarín, which was rebuilt stone by stone on higher ground after a dam project flooded the original village in the 1960s. Now I’m back on the albergue patio with a café con leche, enjoying the quiet before heading out for dinner.  
 :::
 
-- **Day 4 (Oct 1):** Portomarín → Palas de Rei (~25 km)  
-  - Pass historic pilgrim hospices at Hospital de la Cruz and end in Palas de Rei, whose Church of San Tirso preserves remarkable medieval carvings.
+- **Day 4 (Oct 1):** Portomarín → Palas de Rei (~25 km / 15.5 mi)  
+  - Route highlights: Hospital da Cruz and Gonzar; Ligonde; A Eirexe (Igrexa de Santiago); Casanova; arrival to Palas de Rei (San Tirso church carvings).
   - Overnight: **Albergue San Marcos**
 
 ::: {.callout-note}
-**Daily Summary — Oct 1**  
+Daily Summary — Oct 1  
 Dinner in Portomarín last night was Galician pork on a small patio at sunset with Gabriel and Guillermo. They left earlier than I did this morning since they didn’t have reservations and needed to find open albergues. I was still up before 7:00 because the dorm room was noisy with snoring and people rustling to leave. I took a wrong turn heading out of Portomarín in the dark but corrected quickly and continued the climb out of town.  
 
 I stopped at a café for tortilla francesa with cheese (an omelet on bread), a café con leche, and fresh orange juice, which is excellent here. Later in the morning the fog lifted, and the day turned sunny with clear skies.  
@@ -54,13 +62,12 @@ The Camino passed farms with cows, small villages of stone houses, and stretches
 When I arrived in Palas, I tried pulpo a la gallega (octopus), another Galician specialty. It was good, though not something I’ll seek out at home. At the albergue I showered, washed my clothes in the sink, and took a short nap. I’ll likely take a short walk around town this evening, but I’m sore from the day’s walk.  
 :::
 
-- **Day 5 (Oct 2):** Palas de Rei → Arzúa (~29 km)  
-  - Often stop in Melide, famous for pulpo a la gallega (octopus) and the Romanesque church at Leboreiro.  
-  - Arzúa is known for its cheese production and nearby Ribadiso hosts a medieval pilgrim hospital.
+- **Day 5 (Oct 2):** Palas de Rei → Arzúa (~29 km / 18.0 mi)  
+  - Route highlights: Leboreiro’s Romanesque church; Melide (pulpo); Boente (Igrexa de Santiago); Ribadiso da Baixo with its medieval bridge and riverside albergue; entry into Arzúa (local cheeses).
   - Overnight: **Cruce de Caminos Arzúa**
 
 ::: {.callout-note}
-**Daily Summary — Oct 2**  
+Daily Summary — Oct 2  
 I set out in the morning with Carlos, who had stayed in my hostel. He is from San Miguel de Allende, Mexico. In the next village we stopped for breakfast of scrambled eggs with tomato, onion, and ham, which was excellent and kept me fueled for the walk. Carlos shared that he was walking the Camino because his partner of 19 years passed away from cancer in May. It was something his partner had wanted to do, and Carlos is walking in his memory while thinking about what comes next in life.  
 
 We walked together until Melide, where he stopped since he is dividing the Camino into shorter stages due to leg issues. Passing through Melide, I saw many restaurants serving pulpo in different forms—including one advertising pulpo pizza—but I didn’t stop since I had already tried pulpo the previous day and it wasn’t the right time for a meal. From there I continued with Pedro from Málaga for a while. His English was limited, so we spoke in Spanish, which was a challenge for me but good practice. Later I stopped at a café for fresh orange juice and some ibuprofen. My legs were sore since this was the longest stage.  
@@ -70,12 +77,12 @@ I finished the day walking with Miriam from Ohio, who has been walking from Fran
 In the evening I had dinner in an outdoor square with Guillermo, a Turkish American named Volkan I met in the hostel common area, and a group of people Guillermo knew from his hostel. Arzúa is known for its cheese, so we made sure to order a local cheese appetizer to start the meal.  
 :::
 
-- **Day 6 (Oct 3):** Arzúa → O Pedrouzo (~19 km)  
-  - En route visit the chapel of Santa Irene and experience the atmosphere of anticipation in O Pedrouzo as pilgrims gather for the final day.
+- **Day 6 (Oct 3):** Arzúa → O Pedrouzo (~19 km / 11.8 mi)  
+  - Route highlights: eucalyptus/pine lanes; Santa Irene chapel and fountain; Amenal; entry into O Pino municipality (O Pedrouzo).
   - Overnight: **Albergue REM**
 
 ::: {.callout-note}
-**Daily Summary — Oct 3**  
+Daily Summary — Oct 3  
 This morning my muscles were stiff and sore, so I started slowly. Many walkers passed me, including Miriam from yesterday. After a few kilometers I stopped for breakfast and saw Guillermo and his friends again before they moved ahead. Fortunately, once my muscles warmed up I was able to walk more comfortably and keep a steady pace.  
 
 Much of the walk passed through eucalyptus groves, the tall trees giving shade and their distinct smell carrying on the breeze.  
@@ -87,14 +94,14 @@ I joined Volkan, Dee, and the three women for lunch before we parted ways since 
 At the hostel that evening, I discovered Pedro from Málaga in the bed next to mine. Encounters like this are common on the Camino—people’s paths crossing again and again along the way.  
 :::
 
-- **Day 7 (Oct 4):** O Pedrouzo → Santiago (~20 km)  
-  - Highlights include Lavacolla, the traditional cleansing site, Monte do Gozo offering panoramic views of Santiago, and attending the Pilgrim’s Mass featuring the Botafumeiro.
-  - Collect Compostela certificate in Santiago.  
-  - Overnight: **Pensión Rua Nova** (Rúa Nova, 4, Santiago de Compostela).  
+- **Day 7 (Oct 4):** O Pedrouzo → Santiago (~20 km / 12.4 mi)  
+  - Route highlights: Lavacolla; Monte do Gozo (viewpoint often foggy); San Lázaro entry to the city; Praza do Obradoiro.
+  - Collect Compostela certificate in Santiago.
+  - Overnight: **Pensión Rúa Nova** (Rúa Nova, 4, Santiago de Compostela).
   
 ::: {.callout-note}
-**Daily Summary — Oct 4**  
-Rain fell steadily throughout the day, but it was my sore left ankle and right knee that slowed my pace. The group I’d been having dinner with started later and eventually overtook me, and we stopped together for a café con leche before parting ways. E
+Daily Summary — Oct 4  
+Rain fell steadily throughout the day, but it was my sore left ankle and right knee that slowed my pace. The group I’d been having dinner with started later and eventually overtook me, and we stopped together for a café con leche before parting ways.
 
 I walked for a while with a German man who had started his Camino in France and later saw him again as I entered Santiago. I also came across a Danish woman I’d met a few days earlier who had also begun in France. For both of them, reaching Santiago was a major moment after weeks on the trail.  
 
@@ -109,7 +116,7 @@ Dinner was at a tapas restaurant where I had the best scallops I’ve ever taste
 
 ### Day 8 – Sun Oct 5
 - Full day in Santiago.  
-- Overnight: **Pensión Rua Nova**
+- Overnight: **Pensión Rúa Nova**
 
 ::: {.callout-note}
 Daily Summary — Oct 5  
@@ -131,8 +138,8 @@ Later I met up with Volkan, the Turkish American I’d walked with earlier in th
 - Overnight: **Hotel Rúa Villar** (Santiago).
 
 ::: {.callout-note}
-**Daily Summary — Oct 6**  
-I booked a guided day tour to the coast. We visited Muros, Ézaro waterfall, the Fisterra lighthouse (“the end of the world”), the village of Finisterre, Muxía’s Sanctuary of A Barca, and Ponte Maceira with its 14th‑century Romanesque bridge. Muros was my favorite stop—a historic fishing village built up the hillside.  
+Daily Summary — Oct 6  
+I booked a guided day tour to the coast. We visited Muros, Ézaro waterfall, the Finisterre lighthouse (“the end of the world”) and the village of Finisterre, Muxía’s Sanctuary of A Barca, and Ponte Maceira with its 14th‑century Romanesque bridge. Muros was my favorite stop—a historic fishing village built up the hillside.  
 
 In Finisterre I had a pizza and a beer at an outdoor table overlooking the harbor. At Ézaro, the waterfall setting was beautiful, and it made me think a small boat tour out on the ría would be a great way to see this coast; something to consider for a future trip.  
 
@@ -146,8 +153,8 @@ Back in Santiago I rested, then walked up to Parque da Alameda for sunset—firs
 - Overnight: **Petit Palace Plaza Mayor**  
 
 ::: {.callout-note}
-**Daily Summary — Oct 7**  
-I met Carlos for breakfast at a café on the walk down to the station since we were on the same train. We took the AVE high‑speed rail back to Madrid. After checking into my hotel, I rested for a bit—my left ankle and right knee are still sore. By coincidence, friends from Grand Rapids who now live in Las Vegas were in Madrid the same night, so we met up and spent the evening sampling a few tapas spots, ending the night with churros y chocolate at Chocolatería San Ginés.
+Daily Summary — Oct 7  
+I met Carlos for breakfast at a café on the walk down to the station since we were on the same train. We took the AVE high‑speed rail back to Madrid. After checking into my hotel, I rested for a bit—my left ankle and right knee are still sore. By coincidence, a friend I worked with in Grand Rapids and now lives in Las Vegas was in Madrid the same night. I had been coordinating with her husband, so she didn’t realize I was there until she recognized me on the street—it was a fun surprise. We spent the evening sampling a few tapas spots, ending the night with churros y chocolate at Chocolatería San Ginés.
 :::
  
 ### Day 11 – Wed Oct 8
@@ -161,7 +168,7 @@ I met Carlos for breakfast at a café on the walk down to the station since we w
 
 ::: {.callout-note}
 Daily Summary — Oct 8  
-I walked to Sol Cercanías station and took the Cercanías to to the airport via a transfer at Chamartín. Getting through the airport was smooth, though I have heard at other times passport control can be backed up. I stopped by the lounge for yogurt and a cappuccino, then boarded and took a good nap on the plane.  
+I walked to Sol Cercanías station and took the Cercanías to the airport via a transfer at Chamartín. Getting through the airport was smooth, though I have heard at other times passport control can be backed up. I stopped by the lounge for yogurt and a cappuccino, then boarded and took a good nap on the plane.  
 
 I really enjoyed this trip and plan to do it again—possibly the Camino Portugués next time. I don’t see myself doing a full 30-day walk, but I could see adding a few more days beyond the “minimum” in the future.  
 :::
@@ -284,11 +291,15 @@ I really enjoyed this trip and plan to do it again—possibly the Camino Portugu
   - Address: Avda. de la Iglesia nº7, 15821 O Pino (O Pedrouzo), Spain  
   - Phone: +34 617 78 86 35  
   - Booking.com Confirmation: **6475.800.457** | PIN: **7342**
-- **Oct 4–6 — Santiago de Compostela: Pensión Rúa Nova**  
+- **Oct 4–5 — Santiago de Compostela: Pensión Rúa Nova**  
   - Address: Rúa Nova, 4, 15705 Santiago de Compostela, Spain  
   - Phone: +34 981 95 80 09  
   - Reservation: **#6216069981** (via Booking.com)  
   - **Check-in / key pickup:** Hotel Rúa Villar, Rúa do Vilar 8–10 (24h reception); Phone: +34 981 519 858
+
+- **Oct 6 — Santiago de Compostela: Hotel Rúa Villar**  
+  - Address: Rúa do Vilar 8–10, 15705 Santiago de Compostela, Spain  
+  - Phone: +34 981 519 858
 - **Oct 7 — Madrid: Petit Palace Plaza Mayor**  
   - Address: C/ Mayor 46, 28013 Madrid, Spain  
   - Phone: +34 915 42 69 99  
